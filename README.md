@@ -18,6 +18,6 @@ this would create a tiles_normal.png and assumes that a tile is 16x16 pixels in 
 
 ## credits
 
-the conversion from the heighmap to normal maps is done by using Craig-s-Utility.
-used via nuget:
-https://github.com/JaCraig/Craig-s-Utility-Library
+the code conversion from the heighmap to normal maps was originated here:  
+https://gamedev.stackexchange.com/questions/106703/create-a-normal-map-using-a-script-unity
+i just changed it to be usabele with normal .net Windows.System.Drawing instead of unity3d stuff.
