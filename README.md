@@ -1,5 +1,5 @@
 # TiledNormalMapper
-Quick &amp; dirty tool to convert tilesets with heightmap information into a tileset with normal map information
+Quick &amp; dirty tool in net.core 3.1 to convert tilesets with heightmap information into a tileset with normal map information
 
 ## What is it?
 
@@ -11,7 +11,7 @@ this image explains what exacly it does:
 ![What it does](https://github.com/Salmakis/TiledNormalMapper/blob/master/readme.png)
 
 ## how to use
-dotnet run -- <path> <tilewidth> <tileheight>  
+dotnet run -- path tilewidth tileheight
 expample:  
 dotnet run -- tiles.png 16 16  
 this would create a tiles_normal.png and assumes that a tile is 16x16 pixels in size
