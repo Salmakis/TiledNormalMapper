@@ -6,4 +6,4 @@ https://github.com/JaCraig/Craig-s-Utility-Library
 
 this image explains what exacly it does:
 
-![What it does]https://github.com/Salmakis/TiledNormalMapper/blob/master/readme.png
+![What it does](https://github.com/Salmakis/TiledNormalMapper/blob/master/readme.png)
