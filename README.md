@@ -11,13 +11,13 @@ this image explains what exacly it does:
 ![What it does](https://github.com/Salmakis/TiledNormalMapper/blob/master/readme.png)
 
 ## how to use
-dotnet run -- <path> <tilewidth> <tileheight>
-expample:
-dotnet run -- tiles.png 16 16
+dotnet run -- <path> <tilewidth> <tileheight>  
+expample:  
+dotnet run -- tiles.png 16 16  
 this would create a tiles_normal.png and assumes that a tile is 16x16 pixels in size
 
 ## credits
 
 the conversion from the heighmap to normal maps is done by using Craig-s-Utility.
-it used the nuget for it.
-* https://github.com/JaCraig/Craig-s-Utility-Library
+used via nuget:
+https://github.com/JaCraig/Craig-s-Utility-Library
